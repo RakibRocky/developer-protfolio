@@ -49,3 +49,33 @@ h1{
 .dreamPara{
     width: 86%;
 }
+
+
+#third-part{
+   background-image: url(images/exp-bg.png);
+   background-repeat: no-repeat;
+   background-position:left center ;
+   
+ 
+}
+.experh1{
+    margin-bottom: 10px;
+}
+.exp{
+    width: 45%;
+    padding: 0% 3% 2% ;
+   box-shadow: 10px 0px 19px 19px #5252b52d;
+   margin: 3%;
+   border-radius: 15px;
+   border-left: 6px solid #fb675698;
+}
+.exh3{
+    color: orange;
+}
+h2{
+    font-size: 40px;
+}
+footer p {
+    text-align: center;
+}
+
