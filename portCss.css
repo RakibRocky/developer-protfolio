@@ -8,7 +8,9 @@ body{
     background-repeat: no-repeat;
   
 }
-
+p{
+    color: #696997;
+}
 h1{
     font-size: 60px;
 }
@@ -25,6 +27,7 @@ h1{
    
   
 }
+
 .hire-btn{
     text-decoration: none;
     background-image: linear-gradient(#13b1ddb1, #4e360a50);
@@ -33,4 +36,16 @@ h1{
     font-weight: 600;
     letter-spacing: 1px;
     border-radius: 5px;
+}
+.secondPart{
+    display: flex;
+}
+.dreamContent{
+    padding-left: 5%;
+    background-image: url(images/dream-bg.png);
+    background-repeat:no-repeat ;
+    background-position: right 250px;
+}
+.dreamPara{
+    width: 86%;
 }
